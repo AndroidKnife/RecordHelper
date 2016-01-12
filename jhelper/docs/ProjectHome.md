@@ -1,0 +1,1 @@
+Simple but useful Java helper library which contains classes for  File, String, IO and text read-write operations.
