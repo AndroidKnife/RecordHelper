@@ -6,6 +6,23 @@ This project is build on android studio ide and explore all dependence for modul
 
 Content below is the source readme, i have modify the package. if u have some issues, welcome to pull to me.
 
+Download
+--------
+```
+allprojects {
+    repositories {
+       maven {
+            url "https://jitpack.io"
+        }
+    }
+}
+```
+```
+dependencies {
+    compile 'com.github.steelkiwi:AndroidRecording:master'
+}
+```
+
 Android Recording Library
 =======================================
 
